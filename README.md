@@ -88,18 +88,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 📁 Sistema de gestión de expedientes
-> Plataforma web para registro, búsqueda y seguimiento de expedientes digitales. Sustituyó el control en papel por un flujo digital con historial de cambios.
-> `Angular` `Node.js` `Supabase` `PostgreSQL`
-
-### 🛍️ Plataforma de gestión para tienda en línea
-> Catálogo de productos, control de inventario y panel de administración con integración de pagos en línea y optimización SEO.
-> `React` `Node.js` `Firebase` `Stripe`
-
----
-
 <div align="center">
 
 **¿Tienes un proyecto en mente? Hablemos 👇**
