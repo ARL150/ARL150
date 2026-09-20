@@ -66,14 +66,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ARL150&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats de Abraham Robledo"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARL150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Lenguajes de Abraham Robledo"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ARL150&theme=tokyonight&hide_border=true&locale=es)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ARL150&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARL150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" alt="Top Lenguajes"/>
 
 </div>
 
