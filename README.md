@@ -66,8 +66,6 @@
 
 <div align="center">
 
-[![Gráfica de actividad](https://github-readme-activity-graph.vercel.app/graph?username=ARL150&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1)](https://github.com/ARL150)
-
 ![Profile views](https://komarev.com/ghpvc/?username=ARL150&color=6366f1&style=flat-square&label=Visitas+al+perfil)
 
 </div>
