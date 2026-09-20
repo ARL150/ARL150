@@ -62,13 +62,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Actividad
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ARL150&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARL150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" alt="Top Lenguajes"/>
+[![Gráfica de actividad](https://github-readme-activity-graph.vercel.app/graph?username=ARL150&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1)](https://github.com/ARL150)
+
+![Profile views](https://komarev.com/ghpvc/?username=ARL150&color=6366f1&style=flat-square&label=Visitas+al+perfil)
 
 </div>
 
