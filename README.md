@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abraham%20Robledo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Aguascalientes%2C%20M%C3%A9xico&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Abraham+Robledo+%F0%9F%91%8B;Desarrollador+de+Software;Full+Stack+Dev+%7C+Freelance;UAA+%C2%B7+Promedio+9.65+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Abraham+Robledo+%F0%9F%91%8B;Software+Developer;Software+Developer+%7C+Full+Stack;UAA+%C2%B7+Promedio+9.65+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 - 🌍 Intercambio académico en la **Universidad de Granada**, España (2025)
 - 💼 **2+ años** desarrollando software a medida para clientes del sector comercial en México
 - ☁️ Certificado en **AWS Academy Cloud Foundations** y **Oracle Cloud Foundations**
-- 🚀 Disponible para proyectos freelance y oportunidades full-time
+- 🚀 Abierto a nuevas oportunidades y proyectos
 - 📍 Aguascalientes, México
 
 ---
