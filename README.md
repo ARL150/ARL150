@@ -96,8 +96,6 @@
 <br/><br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=ARL150&color=8b5cf6&style=for-the-badge&label=VISITAS+AL+PERFIL)
-![Seguidores](https://img.shields.io/github/followers/ARL150?style=for-the-badge&logo=github&color=6366f1&label=SEGUIDORES)
-![Repos](https://img.shields.io/github/repositories/ARL150?style=for-the-badge&logo=git&logoColor=white&color=ec4899&label=REPOS)
 
 </div>
 
