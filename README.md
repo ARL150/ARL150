@@ -16,26 +16,12 @@
 
 ## 👨‍💻 Sobre mí
 
-<table>
-<tr>
-<td width="220" align="center" valign="top">
-<img src="avatar.png" width="200" alt="Abraham Robledo" />
-<br/><br/>
-<b>Abraham Robledo</b><br/>
-<sub>Full Stack Dev 🚀</sub>
-</td>
-<td valign="top">
-
 - 🎓 Estudiante de **9.º semestre** de Ingeniería en Sistemas Computacionales — UAA · Promedio **9.65**
 - 🌍 Intercambio académico en la **Universidad de Granada**, España (2025)
 - 💼 **2+ años** desarrollando software a medida para clientes del sector comercial en México
 - ☁️ Certificado en **AWS Academy Cloud Foundations** y **Oracle Cloud Foundations**
 - 🚀 Disponible para proyectos freelance y oportunidades full-time
 - 📍 Aguascalientes, México
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -105,7 +91,13 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ARL150&color=6366f1&style=flat-square&label=Visitas+al+perfil)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+Escribiendo+c%C3%B3digo+todos+los+d%C3%ADas;%E2%98%95+Convirtiendo+caf%C3%A9+en+software;%F0%9F%9A%80+Siempre+aprendiendo+algo+nuevo" alt="frases" />
+
+<br/><br/>
+
+![Visitas](https://komarev.com/ghpvc/?username=ARL150&color=8b5cf6&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Seguidores](https://img.shields.io/github/followers/ARL150?style=for-the-badge&logo=github&color=6366f1&label=SEGUIDORES)
+![Repos](https://img.shields.io/github/repositories/ARL150?style=for-the-badge&logo=git&logoColor=white&color=ec4899&label=REPOS)
 
 </div>
 
