@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abraham%20Robledo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Aguascalientes%2C%20M%C3%A9xico&descAlignY=58&descSize=18" width="100%" alt="header" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Abraham+Robledo+%F0%9F%91%8B;Desarrollador+de+Software;Full+Stack+Dev+%7C+Freelance;UAA+%C2%B7+Promedio+9.65+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
@@ -14,6 +16,16 @@
 
 ## 👨‍💻 Sobre mí
 
+<table>
+<tr>
+<td width="220" align="center" valign="top">
+<img src="avatar.png" width="200" alt="Abraham Robledo" />
+<br/><br/>
+<b>Abraham Robledo</b><br/>
+<sub>Full Stack Dev 🚀</sub>
+</td>
+<td valign="top">
+
 - 🎓 Estudiante de **9.º semestre** de Ingeniería en Sistemas Computacionales — UAA · Promedio **9.65**
 - 🌍 Intercambio académico en la **Universidad de Granada**, España (2025)
 - 💼 **2+ años** desarrollando software a medida para clientes del sector comercial en México
@@ -21,9 +33,34 @@
 - 🚀 Disponible para proyectos freelance y oportunidades full-time
 - 📍 Aguascalientes, México
 
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Ahora mismo
+
+<div align="center">
+
+| 🔭 Construyendo | 🌱 Aprendiendo | 💬 Pregúntame de |
+|:---:|:---:|:---:|
+| Apps web a medida para negocios | Arquitectura cloud en AWS | React, Angular, Node.js y Supabase |
+
+</div>
+
 ---
 
 ## 🛠️ Stack técnico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,angular,next,tailwind,nodejs,express,supabase,firebase,postgres,aws,vercel,git,github&perline=10" alt="skills" />
+
+</div>
+
+<details>
+<summary><b>👀 Ver stack completo</b></summary>
 
 **Lenguajes**
 
@@ -59,6 +96,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+
+</details>
 
 ---
 
@@ -100,3 +139,5 @@
 [![Portafolio](https://img.shields.io/badge/Ver_portafolio_completo-6366f1?style=for-the-badge)](https://portafolio-sable-beta-42.vercel.app)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
