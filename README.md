@@ -17,6 +17,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **9.º semestre** de Ingeniería en Sistemas Computacionales — UAA · Promedio **9.65**
+- 🏅 **Testimonio de Desempeño Sobresaliente** en el EGEL-CENEVAL de Ingeniería Computacional (2026)
 - 🌍 Intercambio académico en la **Universidad de Granada**, España (2025)
 - 💼 **2+ años** desarrollando software a medida para clientes del sector comercial en México
 - ☁️ Certificado en **AWS Academy** (Cloud Foundations, Cloud Operations y Cloud Security Foundations) y **Oracle Cloud Foundations**
