@@ -19,7 +19,8 @@
 - 🎓 Estudiante de **9.º semestre** de Ingeniería en Sistemas Computacionales — UAA · Promedio **9.65**
 - 🌍 Intercambio académico en la **Universidad de Granada**, España (2025)
 - 💼 **2+ años** desarrollando software a medida para clientes del sector comercial en México
-- ☁️ Certificado en **AWS Academy Cloud Foundations** y **Oracle Cloud Foundations**
+- ☁️ Certificado en **AWS Academy** (Cloud Foundations, Cloud Operations y Cloud Security Foundations) y **Oracle Cloud Foundations**
+- 🔄 **Scrum Fundamentals Certified (SFC™)** por SCRUMstudy
 - 🚀 Abierto a nuevas oportunidades y proyectos
 - 📍 Aguascalientes, México
 
@@ -106,7 +107,10 @@
 
 | Certificación | Emisor | Año |
 |---|---|---|
-| ☁️ AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2026 |
+| ☁️ [AWS Academy Graduate — Cloud Operations](https://www.credly.com/go/sS10KkTq) | Amazon Web Services | 2026 |
+| 🔐 [AWS Academy Graduate — Cloud Security Foundations](https://www.credly.com/go/qt5OgbkG) | Amazon Web Services | 2026 |
+| 🔄 Scrum Fundamentals Certified (SFC™) | SCRUMstudy | 2026 |
+| ☁️ [AWS Academy Graduate — Cloud Foundations](https://www.credly.com/go/CkYnn8TN) | Amazon Web Services | 2026 |
 | 🔶 Oracle Cloud Foundations | Oracle (Programa de Mentorías) | 2025 |
 
 ---
