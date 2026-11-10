@@ -134,10 +134,10 @@ const abraham = {
 
 | | Credencial | Emisor | Año |
 |:---:|---|---|:---:|
-| <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> | [Cloud Operations](https://www.credly.com/go/sS10KkTq) · 40 h | AWS Academy | 2026 |
-| <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> | [Cloud Security Foundations](https://www.credly.com/go/qt5OgbkG) · 20 h | AWS Academy | 2026 |
-| <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> | [Cloud Foundations](https://www.credly.com/go/CkYnn8TN) · 20 h | AWS Academy | 2026 |
-| <img src="https://img.shields.io/badge/-Scrum-1E88E5?style=flat-square&logo=scrumalliance&logoColor=white" /> | Scrum Fundamentals Certified (SFC™) | SCRUMstudy | 2026 |
+| <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square" /> | [Cloud Operations](https://www.credly.com/go/sS10KkTq) · 40 h | AWS Academy | 2026 |
+| <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square" /> | [Cloud Security Foundations](https://www.credly.com/go/qt5OgbkG) · 20 h | AWS Academy | 2026 |
+| <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square" /> | [Cloud Foundations](https://www.credly.com/go/CkYnn8TN) · 20 h | AWS Academy | 2026 |
+| <img src="https://img.shields.io/badge/-Scrum-1E88E5?style=flat-square" /> | Scrum Fundamentals Certified (SFC™) | SCRUMstudy | 2026 |
 | <img src="https://img.shields.io/badge/-EGEL-6366F1?style=flat-square" /> | Testimonio de Desempeño Sobresaliente · Ing. Computacional | CENEVAL | 2026 |
 | <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> | Oracle Cloud Foundations | Oracle (Mentorías) | 2025 |
 
