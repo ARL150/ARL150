@@ -118,13 +118,18 @@
 
 ## 🚀 Proyectos destacados
 
-### 📁 Sistema de gestión de expedientes
-> Plataforma web para registro, búsqueda y seguimiento de expedientes digitales. Sustituyó el control en papel por un flujo digital con historial de cambios.
-> `Angular` `Node.js` `Supabase` `PostgreSQL`
+> Proyectos reales en producción, desarrollados para clientes desde mi estudio [Softnext](https://www.softnext.tech/).
 
-### 🛍️ Plataforma de gestión para tienda en línea
-> Catálogo de productos, control de inventario y panel de administración con integración de pagos en línea y optimización SEO.
-> `React` `Node.js` `Firebase` `Stripe`
+| Proyecto | Cliente | Stack | Link |
+|---|---|---|---|
+| 📁 **Sistema de control de escrituras** — control de escrituras, trámites y registro con acceso por usuario | Notaría Pública No. 32 · Ags. | `Astro` `TypeScript` `Supabase` `PostgreSQL` | [🔗 Ver](https://sistema.notaria32ags.com.mx/) |
+| ⚖️ **Sitio web institucional** — servicios notariales, blog y contacto por WhatsApp | Notaría Pública No. 32 · Ags. | `Angular` `TypeScript` | [🔗 Ver](https://notaria32ags.com.mx/home) · [💻 Código](https://github.com/ARL150/Notaria-32) |
+| 🧢 **New Project Store** — tienda en línea de moda urbana y belleza con envíos a todo México | Tienda · Aguascalientes | `Shopify` `Liquid` `JavaScript` | [🔗 Ver](https://newprojectstore.com.mx/) |
+| 💍 **Valenne Jewelry** — tienda de joyería con página de pre-lanzamiento | Joyería · Xalapa, Ver. | `Shopify` `Liquid` `JavaScript` | [🔗 Ver](https://valenne.com.mx/) |
+
+### 🗄️ NovaPOS
+> Bases de datos distribuidas: cadena de 10 sucursales en 3 nodos primarios + nodo de recuperación, con replicación automática y control de acceso por roles.
+> `FastAPI` `Python` `React` `MongoDB` `Docker` · [💻 Código](https://github.com/ARL150/NovaPOS)
 
 ---
 
