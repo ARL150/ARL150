@@ -17,38 +17,28 @@
 
 ## Sobre mí
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Desarrollador **full stack** y estudiante de último semestre de **Ingeniería en Sistemas Computacionales** en la UAA. Desde hace más de 2 años construyo software a medida para negocios en México: lo diseño, lo programo, lo publico y le doy soporte.
 
-Estudiante de **Ingeniería en Sistemas Computacionales** en la UAA y desarrollador full stack con **más de 2 años** construyendo software a medida para negocios en México.
+Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas internos, sitios institucionales y tiendas en línea que hoy usan clientes reales todos los días.
 
-Desde mi estudio **[Softnext](https://www.softnext.tech/)** he lanzado sistemas internos, sitios institucionales y tiendas en línea que hoy usan clientes reales.
+<p align="center">
+  <img src="https://img.shields.io/badge/Proyectos_en_producci%C3%B3n-4-6366F1?style=for-the-badge" alt="4 proyectos en producción" />
+  <img src="https://img.shields.io/badge/Promedio-9.65-8B5CF6?style=for-the-badge" alt="Promedio 9.65" />
+  <img src="https://img.shields.io/badge/EGEL--CENEVAL-Sobresaliente-0EA5E9?style=for-the-badge" alt="EGEL-CENEVAL Sobresaliente" />
+  <img src="https://img.shields.io/badge/AWS_Academy-3_credenciales-FF9900?style=for-the-badge" alt="3 credenciales AWS Academy" />
+</p>
 
-- Promedio **9.65** · Intercambio en la **Universidad de Granada**, España
-- **Desempeño Sobresaliente** en el EGEL-CENEVAL
-- 3 credenciales de **AWS Academy** · **Scrum Fundamentals Certified**
-- Abierto a oportunidades y proyectos freelance
+### Lo que hago
 
-</td>
-<td width="45%" valign="top">
+- **Sistemas a la medida** · paneles administrativos, control de procesos y automatización para que un negocio deje el papel y el Excel.
+- **Tiendas en línea** · e-commerce en Shopify listo para vender, con pagos en línea, envíos y atención por WhatsApp.
+- **Cloud y despliegue** · AWS, Vercel, dominios y servidores: llevo cada proyecto de la idea a producción.
 
-```ts
-const abraham = {
-  rol: "Full Stack Developer",
-  base: "Aguascalientes, MX",
-  frontend: ["React", "Angular", "Next.js", "Astro"],
-  backend: ["Node.js", "FastAPI", "Supabase"],
-  cloud: ["AWS", "Vercel", "Oracle Cloud"],
-  ecommerce: ["Shopify", "Stripe"],
-  aprendiendo: "Arquitectura cloud en AWS",
-  cafe: Infinity,
-};
-```
+### Ahora mismo
 
-</td>
-</tr>
-</table>
+- Terminando la carrera (con intercambio en la **Universidad de Granada**, España)
+- Profundizando en **arquitectura cloud en AWS**
+- **Abierto a oportunidades** de tiempo completo y proyectos freelance
 
 ## Proyectos en producción
 
@@ -93,8 +83,8 @@ const abraham = {
 <td width="50%" valign="top">
 <a href="https://valenne.com.mx/"><img src="assets/valenne.webp" alt="Valenne Jewelry" /></a>
 <h3>Valenne Jewelry</h3>
-<sub><b>Joyería</b> · Xalapa, Veracruz · <i>Próximo lanzamiento</i></sub>
-<p>Tienda de joyería con identidad visual en dorados y página de pre-lanzamiento con registro de correos.</p>
+<sub><b>Joyería</b> · Xalapa, Veracruz</sub>
+<p>Tienda de joyería femenina con identidad visual en dorados, catálogo por categorías, pago seguro y envíos a todo México.</p>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/Liquid-0E1B2A?style=flat-square&logo=shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
