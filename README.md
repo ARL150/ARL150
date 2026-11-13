@@ -81,7 +81,7 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 <a href="https://newprojectstore.com.mx/"><b>Visitar sitio →</b></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://valenne.com.mx/"><img src="assets/valenne.webp" alt="Valenne Jewelry" /></a>
+<a href="https://valenne.com.mx/"><img src="assets/valenne-tienda.webp" alt="Valenne Jewelry" /></a>
 <h3>Valenne Jewelry</h3>
 <sub><b>Joyería</b> · Xalapa, Veracruz</sub>
 <p>Tienda de joyería femenina con identidad visual en dorados, catálogo por categorías, pago seguro y envíos a todo México.</p>
