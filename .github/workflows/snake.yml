@@ -52,8 +52,9 @@ jobs:
 
       - name: Juntar archivos
         run: |
-          ls -la /metrics_renders || true
-          cp /metrics_renders/*.svg dist/
+          sudo ls -la /metrics_renders dist || true
+          sudo cp /metrics_renders/*.svg dist/
+          sudo chown -R "$(id -u):$(id -g)" dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
