@@ -135,10 +135,19 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 
 <div align="center">
 
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://raw.githubusercontent.com/ARL150/ARL150/output/metrics-isocalendar.svg" alt="Calendario de contribuciones en 3D" width="100%" />
+</td>
+<td valign="top" width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ARL150&locale=es&hide_border=true&background=0D1117&ring=6366F1&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
-  <img src="https://streak-stats.demolab.com?user=ARL150&locale=es&hide_border=true&background=FFFFFF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideNums=1F2937&currStreakNum=1F2937&sideLabels=6B7280&dates=6B7280&stroke=E5E7EB" alt="Racha de contribuciones" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARL150/ARL150/output/languages-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ARL150/ARL150/output/languages.svg" alt="Lenguajes más usados" width="100%" />
 </picture>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
