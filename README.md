@@ -45,7 +45,7 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://sistema.notaria32ags.com.mx/"><img src="assets/notaria32-sistema.webp" alt="Sistema de control de escrituras" /></a>
+<a href="https://sistema.notaria32ags.com.mx/"><img src="assets/notaria32-sistema.jpg" alt="Sistema de control de escrituras" /></a>
 <h3>Sistema de control de escrituras</h3>
 <sub><b>Notaría Pública No. 32</b> · Aguascalientes</sub>
 <p>Control de escrituras, trámites y registro con acceso por usuario, conexión cifrada y modo oscuro. Reemplazó el control en papel.</p>
@@ -57,7 +57,7 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 <a href="https://sistema.notaria32ags.com.mx/"><b>Visitar sitio →</b></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://notaria32ags.com.mx/home"><img src="assets/notaria32-sitio.webp" alt="Sitio web Notaría 32" /></a>
+<a href="https://notaria32ags.com.mx/home"><img src="assets/notaria32-sitio.jpg" alt="Sitio web Notaría 32" /></a>
 <h3>Sitio web institucional</h3>
 <sub><b>Notaría Pública No. 32</b> · Aguascalientes</sub>
 <p>Sitio oficial con catálogo de servicios notariales, blog, contacto por WhatsApp y diseño responsivo.</p>
@@ -70,7 +70,7 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://newprojectstore.com.mx/"><img src="assets/newprojectstore.webp" alt="New Project Store" /></a>
+<a href="https://newprojectstore.com.mx/"><img src="assets/newprojectstore.jpg" alt="New Project Store" /></a>
 <h3>New Project Store</h3>
 <sub><b>Tienda de moda urbana</b> · Aguascalientes</sub>
 <p>Tienda en línea de gorras, ropa, skin care y más, con pagos en línea, cupón de bienvenida y envíos a todo México.</p>
@@ -81,7 +81,7 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 <a href="https://newprojectstore.com.mx/"><b>Visitar sitio →</b></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://valenne.com.mx/"><img src="assets/valenne-tienda.webp" alt="Valenne Jewelry" /></a>
+<a href="https://valenne.com.mx/"><img src="assets/valenne.jpg" alt="Valenne Jewelry" /></a>
 <h3>Valenne Jewelry</h3>
 <sub><b>Joyería</b> · Xalapa, Veracruz</sub>
 <p>Tienda de joyería femenina con identidad visual en dorados, catálogo por categorías, pago seguro y envíos a todo México.</p>
@@ -135,19 +135,10 @@ Con mi estudio **[Softnext](https://www.softnext.tech/)** he entregado sistemas 
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://raw.githubusercontent.com/ARL150/ARL150/output/metrics-isocalendar.svg" alt="Calendario de contribuciones en 3D" width="100%" />
-</td>
-<td valign="top" width="50%">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARL150/ARL150/output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ARL150/ARL150/output/languages.svg" alt="Lenguajes más usados" width="100%" />
+  <img src="https://raw.githubusercontent.com/ARL150/ARL150/output/languages.svg" alt="Lenguajes más usados" width="480" />
 </picture>
-</td>
-</tr>
-</table>
 
 <br/><br/>
 
